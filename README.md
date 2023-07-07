@@ -1,10 +1,10 @@
-# **Full Stack Open 2022**
+# **Full Stack Open 2023**
 
-Este repositorio está hecho para agregar las soluciones a los diferentes retos impuestos por el Bootcamp Full Stack Open 2022
+Este repositorio está hecho para agregar las soluciones a los diferentes retos impuestos por el Bootcamp Full Stack Open 2023
 
 ## **Contenido**
 
-- [**Full Stack Open 2022**](#full-stack-open-2022)
+- [**Full Stack Open 2022**](#full-stack-open-2023)
   - [**Contenido**](#contenido)
   - [**Temas**](#temas)
     - [**Part 0: Fundamentos de las aplicaciones web**](#part-0-fundamentos-de-las-aplicaciones-web)
